@@ -2,7 +2,7 @@
 
 # Mario Pappagallo
 
-Mario Pappagallo (Roma, 06 luglio 1951 – Roma, 31 maggio 2016) è stato un cantautore italiano, nonché presidente del comitato provinciale e vice-presidente nazionale dello CSEN.
+Mario Pappagallo (Roma, 06 luglio 1951 – Roma, 31 maggio 2016) è stato un cantautore italiano, nonché presidente del comitato della provincia di Roma e vice-presidente nazionale dello CSEN.
 
 Qui ho deciso di raccogliere i testi delle sue canzoni.
 
