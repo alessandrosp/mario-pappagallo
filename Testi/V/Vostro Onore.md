@@ -14,7 +14,7 @@ Io posso dirle come lei mi ha ucciso
 
 Usando un mezzo insolito, il sorriso
 
-
+<br>
 
 Vostro onore
 
@@ -42,7 +42,7 @@ Con un sistema vecchio ma sicuro
 
 La crudeltà che è peggio del cianuro
 
-
+<br>
 
 Vostro onore
 
@@ -58,7 +58,7 @@ Che invoca la clemenza della corte
 
 Ma non tremò nel condannarmi a morte
 
-
+<br>
 
 Vostro onore
 
@@ -86,7 +86,7 @@ E non le sembri accusa inconsistente
 
 La crudeltà è sempre un buon movente
 
-
+<br>
 
 Vostro onore
 
