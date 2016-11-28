@@ -103,6 +103,7 @@ Qui ho deciso di raccogliere i testi delle sue canzoni.
 91. L'Inutile Necessità
 92. L'Uomo Adatto A Sposare Mia Figlia
 93. Maledetta Strega
+94. Magari
 94. Morte Di Un Sommesso Sognatore
 95. Nel Mio Guardino
 96. Non Avrai
