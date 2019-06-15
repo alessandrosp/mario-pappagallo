@@ -14,8 +14,8 @@ layout: default
 		<p>
 			Lista delle canzoni in ordine alfabetico:
 			<ul>
-				{% for post in site.posts %}
-					<li>{{ post.title }}</li>
+				{% for testo in site.testi %}
+					<li>{{ testo.title }}</li>
 				{% endfor %}
 			</ul>
 		</p>
