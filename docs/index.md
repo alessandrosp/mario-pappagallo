@@ -4,7 +4,7 @@ layout: default
 ---
 <div class="row">
 	<div class="col-12">
-	<p>I am <b>Alessandro</b>, machine learning enthusiast at Google.</p>
-	<p>I have a weird sense of aesthetics.</p>
+		<img src="/assets/images/mario-001.jpg">
+		<p>Hello, world.</p>
 	</div>
 </div>
