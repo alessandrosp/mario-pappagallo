@@ -11,5 +11,12 @@ layout: default
 		<p>
 			Mario Pappagallo (Roma, 06 luglio 1951 – Roma, 31 maggio 2016) è stato un cantautore italiano, nonché presidente del comitato della provincia di Roma e vice-presidente nazionale dello CSEN.
 		</p>
+		<p>
+			<ul>
+				{% for post in site.posts %}
+					<li>{{ post.title }}</li>
+				{% endfor %}
+			</ul>
+		</p>
 	</div>
 </div>
