@@ -3,4 +3,5 @@ url: http://annoys-parrot.github.io/
 baseurl: /mario-pappagallo
 
 collections:
-  - testi
+  testi:
+    output: true
