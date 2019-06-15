@@ -2,4 +2,5 @@ title: Mario Pappagallo
 url: http://annoys-parrot.github.io/
 baseurl: /mario-pappagallo
 
-highlighter: rouge
+collections:
+  - testi
