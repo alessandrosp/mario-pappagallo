@@ -14,7 +14,7 @@ Sono le lettere dell'alfabeto
 <br>
 
 "A" come amore non contraccambiato
-"B" come il bacio che non mi hai ridato
+"B" come il bacio che non m'hai ridato
 "C" come il caso che non l'ha voluto
 "D" del dolore lancinante, acuto
 Che ne ho provato
@@ -39,7 +39,7 @@ O ricavato
 
 "O" come oddio che cosa ho combinato
 "P" come pianto, pianto disperato
-"Q" come quello per cui sopravvivi
+"Q" come quello per cui sopravvivo
 "R" il rancore che per te coltivo
 Che ti riservo
 
@@ -61,7 +61,7 @@ Che trova ostico il tuo alfabeto
 <br>
 
 "A" come l'altro che ti ha conquistato
-"B" delle briciole che mi ha lasciato
+"B" delle briciole che m'ha lasciato
 "C" come il cuore che non ci hai mai messo
 "D" come donna tutto ti è concesso
 Così crudele
@@ -95,5 +95,5 @@ Non c'è futuro
 "S" di stupido non di speranza
 "T" di testarda non di tolleranza
 "U" come umore, umore nero
-"V" di vergogna, niente V di vero
+"V" di vergogna, niente "V" di vero
 "Z" di zero
