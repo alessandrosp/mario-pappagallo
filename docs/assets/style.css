@@ -3,12 +3,14 @@ body {
 }
 
 .blockquote {
+  border-left: 4px solid #ccc;
   color: #4e5256;
   font-size: 95%;
+  padding-left: 8px;
 }
 
 .blockquote-footer {
-  font-size: 95%;
+  font-size: 98%;
 }
 
 .container {
