@@ -2,7 +2,17 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
+.blockquote {
+  color: #4e5256;
+  font-size: 95%;
+}
+
+.blockquote-footer {
+  font-size: 95%;
+}
+
 .container {
+  font-size: 105%;
   margin-bottom: 100px;
   max-width: 900px;
   padding-top: 15px;
