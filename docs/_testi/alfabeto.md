@@ -60,3 +60,40 @@ Che trova ostico il tuo alfabeto
 
 <br>
 
+"A" come l'altro che ti ha conquistato
+"B" delle briciole che mi ha lasciato
+"C" come il cuore che non ci hai mai messo
+"D" come donna tutto ti è concesso
+Così crudele
+
+<br>
+
+"E" come, come, come emarginato
+"F" di fragile, di folgorato
+"G" come grande figlia di una vacca
+Che mi hai lasciato muto come una "H"
+Inebetito
+
+<br>
+
+"I" come incline alla disperazione
+"L" di lotta, di lacerazione
+"M" di mendicante, di miseria
+"N" di un no che sa di cattiveria
+Cosi gratuita
+
+<br>
+
+"O" come l'odio che si fa minaccia
+"P" come porta che mi hai chiuso in faccia
+"Q" come quasi quasi ci ho creduto
+"R" di rabbia come di rifiuto
+Non c'è futuro
+
+<br>
+
+"S" di stupido non di speranza
+"T" di testarda non di tolleranza
+"U" come umore, umore nero
+"V" di vergogna, niente V di vero
+"Z" di zero
