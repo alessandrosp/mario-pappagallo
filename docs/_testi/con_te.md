@@ -1,6 +1,6 @@
 ---
 title: Con Te
-layout: default
+layout: lyrics
 ---
 # Con Te
 
