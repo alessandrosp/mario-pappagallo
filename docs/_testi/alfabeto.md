@@ -34,7 +34,7 @@ Che ne ho provato
 
 "G" come gioco più che come giacca
 
-Di cui però non ho capito un "H"
+Di cui però non ho capito una "H"
 
 Ed ho perduto
 
