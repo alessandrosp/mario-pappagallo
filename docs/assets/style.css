@@ -3,6 +3,7 @@ body {
 }
 
 .container {
+  margin-bottom: 100px;
   max-width: 900px;
   padding-top: 15px;
 }
