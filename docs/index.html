@@ -20,7 +20,7 @@ layout: default
 		<p>
 			<ol>
 				{% for testo in site.testi %}
-					<li><a href="{{ testo.url }}">{{ testo.title }}</a></li>
+					<li><a href="{{ testo.url | absolute_url }}">{{ testo.title }}</a></li>
 				{% endfor %}
 			</ol>
 		</p>
